@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/RealVirtualExample.unity
+    guid: 9227e8b57163a7443be0f819e645bbf4
+  - enabled: 0
+    path: Assets/Scenes/OnePointTurning.unity
+    guid: c2b76f6bc9fded74297f4b26641e6f15
+  - enabled: 1
+    path: Assets/Scenes/TurningBase.unity
+    guid: 34edc43df16483a43807d3a4ba1e34a7
+  - enabled: 0
+    path: Assets/Scenes/NoHeadsetTesting.unity
+    guid: 893a725182279a34193a86a2c0329722
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 14fe612a945ba0245b12aa82fab20fef,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a2b1a344377c1549a2df86094a9449e,
+      type: 2}
